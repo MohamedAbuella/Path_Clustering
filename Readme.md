@@ -10,6 +10,8 @@ The approach aims to offer valuable insights for planning of vessel paths, ultim
   <img src="/icons/Framework_of_Vessel_Path_Identification.jpg" width="500" height="625">
 </p>
 
+<h2>Data Preprocessing and Analysis</h2>
+<h3>Data Preprocessing</h3>
 <p align="center">
   <img src="/icons/Fig_Cinderella_II_Ship.png" width="500" height="300">
 </p>
@@ -20,6 +22,8 @@ The approach aims to offer valuable insights for planning of vessel paths, ultim
     <img src="/icons/Fig_Cind_route_Dist_5paths.png" width="400" height="300">
   </div>
 </p>
+
+<h3>Data Analysis</h3>
 
 <p align="center">
   <img src="/icons/Fig_Cind_5Paths_Stats_Hists.png" width="500" height="300">
@@ -38,6 +42,10 @@ The approach aims to offer valuable insights for planning of vessel paths, ultim
   <img src="/icons/Fig_Cind_route_Indv_5paths.png" width="700" height="400">
 </p>
 
+
+<h2>Distance-Based Method</h2>
+<h3>Result of k-means or GMM clustering to five path classes</h3>
+
 <p align="center">
   <img src="/icons/Fig2_Cind_5paths_by_Kmeans_GMM.png" width="700" height="400">
 </p>
@@ -45,10 +53,13 @@ The approach aims to offer valuable insights for planning of vessel paths, ultim
 <p align="center">
   <img src="/icons/Fig_Cind_5paths_PDF_Misclustered.png" width="700" height="350">
 </p>
+<h3>Result of hierarchical clustering to five path classes</h3>
 
 <p align="center">
   <img src="/icons/Fig_Cind_5paths_Hierarch2.png" width="1100" height="400">
 </p>
+
+<h2>Segmented Gaussian Likelihood Method</h2>
 
 <p align="center">
   <img src="/icons/Fig_Cind_route_Dist_8Segs.png" width="500" height="300">
