@@ -7,5 +7,5 @@ The approach aims to offer valuable insights for planning of vessel paths, ultim
 
 <h2>Framework of Vessel Path Identification</h2>
 <p align="center">
-  <img src="/icons/Framework_of_Vessel_Path_Identification.jpg" width="320" height="400">
+  <img src="/icons/Framework_of_Vessel_Path_Identification.jpg" width="500" height="625">
 </p>
