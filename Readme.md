@@ -11,56 +11,52 @@ The approach aims to offer valuable insights for planning of vessel paths, ultim
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cinderella_II_Ship.png" width="500" height="625">
+  <img src="/icons/Fig_Cinderella_II_Ship.png" width="500" height="500">
 </p>
 
 <p align="center">
-  <img src="/icons/Framework_of_Vessel_Path_Identification.jpg" width="500" height="625">
+  <img src="/icons/Fig_Cinderella_II_route.png" width="500" height="500">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cinderella_II_route.png" width="500" height="625">
+  <img src="/icons/Fig_Cind_route_Dist_5paths.png" width="500" height="500">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cind_route_Dist_5paths.png" width="500" height="625">
+  <img src="/icons/Fig_Cind_5Paths_Stats_Hists.png" width="500" height="500">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cind_5Paths_Stats_Hists.png" width="500" height="625">
+  <img src="/icons/Fig2_Cind_Distance_SOG_Hists.png" width="500" height="500">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig2_Cind_Distance_SOG_Hists.png" width="500" height="625">
+  <img src="/icons/Fig2_Cind_Fuel_Time_Hists.png" width="500" height="500">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig2_Cind_Fuel_Time_Hists.png" width="500" height="625">
+  <img src="/icons/Fig_Cind_route_Indv_5paths.png" width="500" height="500">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cind_route_Indv_5paths.png" width="500" height="625">
+  <img src="/icons/Fig2_Cind_5paths_by_Kmeans_GMM.png" width="500" height="500">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig2_Cind_5paths_by_Kmeans_GMM.png" width="500" height="625">
+  <img src="/icons/Fig_Cind_5paths_PDF_Misclustered.png" width="500" height="500">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cind_5paths_PDF_Misclustered.png" width="500" height="625">
+  <img src="/icons/Fig_Cind_5paths_Hierarch2.png" width="500" height="500">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cind_5paths_Hierarch2.png" width="500" height="625">
+  <img src="/icons/Fig_Cind_route_Dist_8Segs.png" width="500" height="500">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cind_route_Dist_8Segs.png" width="500" height="625">
-</p>
-
-<p align="center">
-  <img src="/icons/Fig_Cind_8paths_Gaussians_Lat_Lon.png" width="500" height="625">
+  <img src="/icons/Fig_Cind_8paths_Gaussians_Lat_Lon.png" width="500" height="500">
 </p>
 <p align="center">
-  <img src="/icons/Fig_Cind_7Segs_Gaussians.png" width="500" height="625">
+  <img src="/icons/Fig_Cind_7Segs_Gaussians.png" width="500" height="500">
 </p>
