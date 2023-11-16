@@ -15,11 +15,10 @@ The approach aims to offer valuable insights for planning of vessel paths, ultim
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cinderella_II_route.png" width="400" height="300">
-</p>
-
-<p align="center">
-  <img src="/icons/Fig_Cind_route_Dist_5paths.png" width="400" height="300">
+  <div style="display: flex; justify-content: space-between;">
+    <img src="/icons/Fig_Cinderella_II_route.png" width="400" height="300">
+    <img src="/icons/Fig_Cind_route_Dist_5paths.png" width="400" height="300">
+  </div>
 </p>
 
 <p align="center">
