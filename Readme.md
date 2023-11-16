@@ -3,5 +3,4 @@ We develop a path clustering framework with either a distance-based or likelihoo
 The result findings highlight the superior performance and efficiency of the developed approach.
 The approach aims to offer valuable insights for planning of vessel paths, ultimately contributing to improving the safety and operation practices in the maritime transportation.
 
-![Framework of Vessel Path Identification]([image_URL](https://github.com/MohamedAbuella/Path_Clustering/blob/main/Framework_of_Vessel_Path_Identification.jpg)
-
+<img src="/icons/Framework_of_Vessel_Path_Identification.jpg" width="220" height="277"  ALIGN=”right” />
