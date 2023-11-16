@@ -47,7 +47,7 @@ The approach aims to offer valuable insights for planning of vessel paths, ultim
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cind_5paths_Hierarch2.png" width="900" height="400">
+  <img src="/icons/Fig_Cind_5paths_Hierarch2.png" width="1100" height="400">
 </p>
 
 <p align="center">
