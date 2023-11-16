@@ -27,11 +27,11 @@ The approach aims to offer valuable insights for planning of vessel paths, ultim
 </p>
 
 <p align="center">
-  <img src="/icons/Fig2_Cind_Fuel_Time_Hists.png" width="500" height="200">
+  <img src="/icons/Fig2_Cind_Fuel_Time_Hists.png" width="500" height="150">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig2_Cind_Distance_SOG_Hists.png" width="500" height="200">
+  <img src="/icons/Fig2_Cind_Distance_SOG_Hists.png" width="500" height="150">
 </p>
 
 
@@ -44,11 +44,11 @@ The approach aims to offer valuable insights for planning of vessel paths, ultim
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cind_5paths_PDF_Misclustered.png" width="500" height="200">
+  <img src="/icons/Fig_Cind_5paths_PDF_Misclustered.png" width="700" height="350">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cind_5paths_Hierarch2.png" width="900" height="600">
+  <img src="/icons/Fig_Cind_5paths_Hierarch2.png" width="900" height="400">
 </p>
 
 <p align="center">
