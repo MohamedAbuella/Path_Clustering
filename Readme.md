@@ -48,7 +48,7 @@ The approach aims to offer valuable insights for planning of vessel paths, ultim
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cind_5paths_Hierarch2.png" width="500" height="300">
+  <img src="/icons/Fig_Cind_5paths_Hierarch2.png" width="900" height="600">
 </p>
 
 <p align="center">
@@ -56,8 +56,8 @@ The approach aims to offer valuable insights for planning of vessel paths, ultim
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cind_8paths_Gaussians_Lat_Lon.png" width="500" height="300">
+  <img src="/icons/Fig_Cind_8paths_Gaussians_Lat_Lon.png" width="500" height="200">
 </p>
 <p align="center">
-  <img src="/icons/Fig_Cind_7Segs_Gaussians.png" width="500" height="400">
+  <img src="/icons/Fig_Cind_7Segs_Gaussians.png" width="700" height="500">
 </p>
