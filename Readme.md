@@ -27,23 +27,24 @@ The approach aims to offer valuable insights for planning of vessel paths, ultim
 </p>
 
 <p align="center">
-  <img src="/icons/Fig2_Cind_Distance_SOG_Hists.png" width="500" height="300">
+  <img src="/icons/Fig2_Cind_Fuel_Time_Hists.png" width="500" height="200">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig2_Cind_Fuel_Time_Hists.png" width="500" height="300">
+  <img src="/icons/Fig2_Cind_Distance_SOG_Hists.png" width="500" height="200">
+</p>
+
+
+<p align="center">
+  <img src="/icons/Fig_Cind_route_Indv_5paths.png" width="700" height="400">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig_Cind_route_Indv_5paths.png" width="500" height="300">
+  <img src="/icons/Fig2_Cind_5paths_by_Kmeans_GMM.png" width="700" height="400">
 </p>
 
 <p align="center">
-  <img src="/icons/Fig2_Cind_5paths_by_Kmeans_GMM.png" width="500" height="300">
-</p>
-
-<p align="center">
-  <img src="/icons/Fig_Cind_5paths_PDF_Misclustered.png" width="500" height="300">
+  <img src="/icons/Fig_Cind_5paths_PDF_Misclustered.png" width="500" height="200">
 </p>
 
 <p align="center">
